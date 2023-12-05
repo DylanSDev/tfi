@@ -109,3 +109,8 @@ main {
 .cards-index {
   background-color: #ffffffdd;
 }
+
+/* Sección Problema/Oportunidad */
+.tx-justificado {
+  text-align: justify;
+}
