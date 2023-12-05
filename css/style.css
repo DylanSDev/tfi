@@ -1,0 +1,77 @@
+/* Estilos Principales */
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Poppins:wght@500&family=Roboto&display=swap");
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex-grow: 1;
+}
+
+/* Tipografias */
+.tx-titulo {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+.tx-intermedio {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+.tx-parrafo {
+  font-family: "Nunito", sans-serif;
+  font-weight: 300;
+}
+
+/* Colores */
+.tx-VerdeOscuro {
+  color: #00272d;
+}
+
+.tx-VerdeClaro {
+  color: #134647;
+}
+
+.tx-VerdePastel {
+  color: #0c7e7e;
+}
+
+.tx-tierra {
+  color: #bfac8b;
+}
+
+/* Colores de Fondo */
+.bg-VerdeOscuro {
+  background-color: #00272d;
+}
+
+.bg-VerdeClaro {
+  background-color: #134647;
+}
+
+.bg-VerdePastel {
+  background-color: #0c7e7e;
+}
+
+.bg-tierra {
+  background-color: #bfac8b;
+}
+
+/*Estilos Index*/
+
+.navbar-toggler {
+  margin-right: 8px;
+  background-color: #bfac8b;
+  border: 1px solid #bfac8b;
+}
+
+.navbarRedem {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
