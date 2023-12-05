@@ -104,147 +104,7 @@
       </nav>
     </header>
 
-    <main>
-      <!-- Ìmagen Presentacion -->
-      <section
-        class="w-100 d-flex justify-content-center align-items-center section-caracteristicas"
-      >
-        <img
-          src="./img/fondo_granos.jpg"
-          width="100%"
-          alt="fondo de plantas de trigo"
-          class="fondo_principal"
-        />
-        <div class="position-absolute d-flex flex-column align-items-center">
-          <h2 class="tx-titulo text text-center text-light fs-1">
-            Una solución a tus problemas.
-          </h2>
-          <p class="tx-parrafo w-50 text-light text-center">
-            Redem es la solución integral para la recepción de mercadería que
-            simplifica y optimiza sus operaciones logísticas. Ofrecemos un
-            proceso automatizado, rápido y preciso. Descubra una nueva era en la
-            gestión de inventario con Redem.
-          </p>
-        </div>
-      </section>
-
-      <!-- Cards Caracteristicas -->
-      <section
-        class="d-flex justify-content-around py-5 px-5 section-caracteristicas"
-      >
-        <!-- Card 1 -->
-        <div
-          class="card d-flex text-center cards-index rounded-4 ms-5"
-          style="width: 18rem"
-        >
-          <img
-            src="./img/card1.jpg"
-            class="card-img-top p-3 img-card rounded-5"
-            alt="granjero usando tablet"
-          />
-          <div class="card-body p-4">
-            <h5 class="tx-intermedio text-center tx-VerdeClaro">
-              Automatización Eficiente
-            </h5>
-            <p class="card-text tx-parrafo">
-              Simplifica tus procesos con la potente automatización de nuestro
-              sistema.
-            </p>
-            <a href="./pages/error404.html" class="btn btn-primary btn-tierra"
-              >Ver más</a
-            >
-          </div>
-        </div>
-
-        <!-- Card 2 -->
-        <div
-          class="card d-flex text-center cards-index rounded-4"
-          style="width: 18rem"
-        >
-          <img
-            src="./img/card2.jpg"
-            class="card-img-top p-3 img-card rounded-5"
-            alt="granjero usando tablet"
-          />
-          <div class="card-body p-4">
-            <h5 class="tx-intermedio text-center tx-VerdeClaro">
-              Interfaz Intuitiva
-            </h5>
-            <p class="card-text tx-parrafo">
-              La facilidad en su uso, hace que la navegación por el sistema sea
-              un proceso sin complicaciones.
-            </p>
-            <a href="./pages/error404.html" class="btn btn-primary btn-tierra"
-              >Ver más</a
-            >
-          </div>
-        </div>
-
-        <!-- Card 3 -->
-        <div
-          class="card d-flex text-center cards-index rounded-4 me-5"
-          style="width: 18rem"
-        >
-          <img
-            src="./img/card3.jpg"
-            class="card-img-top p-3 img-card rounded-5"
-            alt="granjero usando tablet"
-          />
-          <div class="card-body p-4">
-            <h5 class="tx-intermedio text-center tx-VerdeClaro">
-              Seguridad Robusta
-            </h5>
-            <p class="card-text tx-parrafo">
-              Puedes confiar en nosotros para salvaguardar tus datos en todo
-              momento.
-            </p>
-            <a href="./pages/error404.html" class="btn btn-primary btn-tierra"
-              >Ver más</a
-            >
-          </div>
-        </div>
-      </section>
-
-      <!-- Problema/Oportunidad -->
-      <section class="container">
-        <article class="row justify-content-between">
-          <div class="col-6 position-relative">
-            <img
-              src="./img/problema-oportunidad.png"
-              alt="tractor cosechando"
-              width="100%"
-            />
-          </div>
-
-          <div class="col-6 d-flex flex-column justify-content-center">
-            <h4 class="mb-2 tx-VerdePastel tx-intermedio fs-5">
-              Un problema, una oportunidad.
-            </h4>
-            <h2>¿Cómo surge "redem"?</h2>
-            <p class="tx-parrafo tx-justificado">
-              "redem" es un proyecto impulsado por un grupo de alumnos de la UTN
-              FRT, en el marco del desarollo del Trabajo Final Integrador de la
-              asignatura: Análisis de Sistemas. Durante el mismo, los alumnos
-              nos enfocamos en resolver un problema en particular, aplicando un
-              enfoque sistemico.
-            </p>
-            <h4>La oportunidad</h4>
-            <p class="tx-parrafo tx-justificado">
-              Fracoga SA es una empresa Tucumana, dedicada a la producción y
-              comercialización de granos. Por lo que su actividad, comprende una
-              gran cantidad de procesos, entre ellos, la recepción de
-              mercaderia.<br />
-              Como toda empresa en crecimiento, contaban con un proceso manual
-              para recibir los productos, lo que complicaba la organización y
-              eficiencia del flujo de trabajo. Problema que puede ser resuelto
-              con un sistema automatizado.
-            </p>
-          </div>
-        </article>
-      </section>
-
-      <section></section>
-    </main>
+    <main></main>
 
     <footer class="bg-VerdeOscuro">
       <section class="container">
@@ -351,8 +211,8 @@
         </div>
       </section>
       <div class="bg-tierra tx-parrafo text-center">
-        <h5 class="text-light fs-6 mt-4 mb-0 my-md-0 py-2">
-          &copy; Grupo 17. DylanSDev. Todos los derechos reservados.
+        <h5 class="text-light mt-4 mb-0 my-md-0 py-2">
+          &copy; Todos los derechos reservados
         </h5>
       </div>
     </footer>
